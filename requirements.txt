@@ -1,0 +1,4 @@
+Scrapy==2.12.0
+pandas==2.2.3
+aiohttp==3.11.18
+scrapy-playwright==0.0.43
