@@ -94,4 +94,3 @@ class WikiSpider(CrawlSpider):
                         'act': act,
                         'game': game
                     }
-

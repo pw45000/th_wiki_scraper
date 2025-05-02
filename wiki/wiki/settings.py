@@ -53,4 +53,7 @@ PLAYWRIGHT_LAUNCH_OPTIONS = {
         "--disable-blink-features=AutomationControlled",
         "--enable-experimental-web-platform-features",
     ],
+    "proxy": {
+        "server": "0.0.0.0:8000"
+    },
 }

@@ -1,0 +1,2 @@
+CREATE USER c##dialogue IDENTIFIED BY dialpass;
+GRANT CONNECT, RESOURCE, DBA TO c##dialogue;
